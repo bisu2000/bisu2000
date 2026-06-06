@@ -18,23 +18,27 @@
 <!-- About Me Section -->
 ## 🧠 About Me
 
-```python
-class BiswajitManna:
-    def __init__(self):
-        self.name        = "Biswajit Manna"
-        self.username    = "bisu2000"
-        self.location    = "Kolkata, India 🇮🇳"
-        self.role        = "Full Stack Developer"
-        self.stack       = ["JavaScript", "Node.js", "React", "PostgreSQL", "REST APIs"]
-        self.focus       = "Building scalable web apps & clean backend systems"
-        self.superpower  = "Turning complex problems into elegant solutions"
-        self.available   = True  # Open to opportunities!
+```java
+public class BiswajitManna {
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    String   name       = "Biswajit Manna";
+    String   username   = "bisu2000";
+    String   location   = "Kolkata, India 🇮🇳";
+    String   role       = "Full Stack Developer";
+    String[] stack      = {"JavaScript", "Node.js", "React", "PostgreSQL", "REST APIs"};
+    String   focus      = "Building scalable web apps & clean backend systems";
+    String   superpower = "Turning complex problems into elegant solutions";
+    boolean  available  = true; // Open to opportunities!
 
-me = BiswajitManna()
-me.say_hi()
+    public void sayHi() {
+        System.out.println("Thanks for dropping by! Let's build something amazing together 🚀");
+    }
+
+    public static void main(String[] args) {
+        BiswajitManna me = new BiswajitManna();
+        me.sayHi();
+    }
+}
 ```
 
 ---
