@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Biswajit+Manna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+PostgreSQL;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Biswajit+Manna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Node.js+%7C+PostgreSQL;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Profile Views + Follow -->
 <p>
@@ -25,7 +25,7 @@ class BiswajitManna:
         self.username    = "bisu2000"
         self.location    = "Kolkata, India 🇮🇳"
         self.role        = "Full Stack Developer"
-        self.stack       = ["Java Script","Node.Js", "PostgreSQL", "REST APIs", "React"]
+        self.stack       = ["JavaScript", "Node.js", "PostgreSQL", "REST APIs", "React"]
         self.focus       = "Building scalable web apps & clean backend systems"
         self.superpower  = "Turning complex problems into elegant solutions"
         self.available   = True  # Open to opportunities!
@@ -45,17 +45,17 @@ me.say_hi()
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Tools & DevOps**
 
@@ -108,7 +108,7 @@ me.say_hi()
 - 💡 Passionate about writing **clean, scalable, and maintainable code**
 - 🧩 Love solving real-world problems through **backend architecture**
 - 📚 Always learning — currently diving deeper into **System Design**
-- 💬 Ask me about **Python, Django, REST APIs, PostgreSQL**
+- 💬 Ask me about **JavaScript, Node.js, REST APIs, PostgreSQL**
 
 ---
 
