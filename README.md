@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Biswajit+Manna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Node.js+%7C+PostgreSQL;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I%27m+Biswajit+Manna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Node.js+%7C+React+%7C+PostgreSQL;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Profile Views + Follow -->
 <p>
@@ -18,14 +18,14 @@
 <!-- About Me Section -->
 ## 🧠 About Me
 
-```Java
+```python
 class BiswajitManna:
     def __init__(self):
         self.name        = "Biswajit Manna"
         self.username    = "bisu2000"
         self.location    = "Kolkata, India 🇮🇳"
         self.role        = "Full Stack Developer"
-        self.stack       = [ "React",  "Node.js", "PostgreSQL", "REST APIs"]
+        self.stack       = ["JavaScript", "Node.js", "React", "PostgreSQL", "REST APIs"]
         self.focus       = "Building scalable web apps & clean backend systems"
         self.superpower  = "Turning complex problems into elegant solutions"
         self.available   = True  # Open to opportunities!
